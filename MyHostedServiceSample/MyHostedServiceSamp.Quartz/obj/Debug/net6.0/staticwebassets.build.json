@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7CK8Av/jbhkMz5qK53U3kzMUASN+uhTGi0MmNQxhyTM=",
+  "Source": "MyHostedServiceSamp.Quartz",
+  "BasePath": "_content/MyHostedServiceSamp.Quartz",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

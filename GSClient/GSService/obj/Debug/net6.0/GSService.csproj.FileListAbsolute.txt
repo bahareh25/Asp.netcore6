@@ -1,0 +1,12 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\bin\Debug\net6.0\GSService.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\bin\Debug\net6.0\GSService.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\bin\Debug\net6.0\ref\GSService.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\bin\Debug\net6.0\GSService.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\ref\GSService.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\GSClient\GSService\obj\Debug\net6.0\GSService.csproj.AssemblyReference.cache

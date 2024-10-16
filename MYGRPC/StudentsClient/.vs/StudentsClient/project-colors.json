@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c74afdf-26c9-4f67-a690-650b44757c5c": {
+      "ProjectGuid": "0c74afdf-26c9-4f67-a690-650b44757c5c",
+      "DisplayName": "StudentsClient.WebUI",
+      "ColorIndex": 0
+    },
+    "8390c11e-66ac-48a8-a2e3-2d85f0f4e0db": {
+      "ProjectGuid": "8390c11e-66ac-48a8-a2e3-2d85f0f4e0db",
+      "DisplayName": "StudentsClient.Domain",
+      "ColorIndex": 1
+    },
+    "afb88644-c848-4fc5-8912-a204928c9dac": {
+      "ProjectGuid": "afb88644-c848-4fc5-8912-a204928c9dac",
+      "DisplayName": "StudentsClient.BLL",
+      "ColorIndex": 2
+    },
+    "61a55755-5966-4b14-9008-aec30244dc4f": {
+      "ProjectGuid": "61a55755-5966-4b14-9008-aec30244dc4f",
+      "DisplayName": "StudentsClient.DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

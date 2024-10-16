@@ -1,0 +1,17 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Infra.Data.Sql.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Infra.Data.Sql.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\ref\MyASP6Store.Infra.Data.Sql.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Infra.Data.Sql.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Core.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Framework.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Core.Domain.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\bin\Debug\net6.0\MyASP6Store.Framework.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.csproj.AssemblyReference.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.csproj.CopyComplete
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\ref\MyASP6Store.Infra.Data.Sql.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Infra.Data.Sql\obj\Debug\net6.0\MyASP6Store.Infra.Data.Sql.pdb

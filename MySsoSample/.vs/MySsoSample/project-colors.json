@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6158b1d7-5491-438d-874c-473e72bc799a": {
+      "ProjectGuid": "6158b1d7-5491-438d-874c-473e72bc799a",
+      "DisplayName": "MySsoSample.API",
+      "ColorIndex": 0
+    },
+    "4e15b30f-39d3-4de6-a52a-6921a1ca0918": {
+      "ProjectGuid": "4e15b30f-39d3-4de6-a52a-6921a1ca0918",
+      "DisplayName": "SsoSample.MVC",
+      "ColorIndex": 1
+    },
+    "c5aee52e-a7c5-45dc-b676-e4c384aa9ac9": {
+      "ProjectGuid": "c5aee52e-a7c5-45dc-b676-e4c384aa9ac9",
+      "DisplayName": "SsoSample.Console",
+      "ColorIndex": 2
+    },
+    "78c31166-a6f6-4eab-9999-b33ffe6b288c": {
+      "ProjectGuid": "78c31166-a6f6-4eab-9999-b33ffe6b288c",
+      "DisplayName": "SsoSample.IdentityServer",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,15 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.csproj.AssemblyReference.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\bin\Debug\net6.0\MyASP6Store.Core.Domain.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\bin\Debug\net6.0\MyASP6Store.Core.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\bin\Debug\net6.0\ref\MyASP6Store.Core.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\bin\Debug\net6.0\MyASP6Store.Core.Domain.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\bin\Debug\net6.0\MyASP6Store.Framework.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\bin\Debug\net6.0\MyASP6Store.Framework.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.csproj.CopyComplete
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\ref\MyASP6Store.Core.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyCleanArch\MyASP6Store\MyASP6Store.Core.Domain\obj\Debug\net6.0\MyASP6Store.Core.Domain.pdb

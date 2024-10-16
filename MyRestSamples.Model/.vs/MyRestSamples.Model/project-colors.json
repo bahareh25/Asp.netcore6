@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6e88773-302e-44d2-9784-38d7c549880a": {
+      "ProjectGuid": "d6e88773-302e-44d2-9784-38d7c549880a",
+      "DisplayName": "MyRestSamples.Model",
+      "ColorIndex": 0
+    },
+    "f9c3144d-3c30-4862-bbed-27c1394798c9": {
+      "ProjectGuid": "f9c3144d-3c30-4862-bbed-27c1394798c9",
+      "DisplayName": "MyRestSamples.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0e420cdc-b600-402f-ba4b-030cef855057": {
+      "ProjectGuid": "0e420cdc-b600-402f-ba4b-030cef855057",
+      "DisplayName": "MyRestSamples.Simple",
+      "ColorIndex": 2
+    },
+    "9307989f-f18f-4cb8-8097-318f0c1b90f9": {
+      "ProjectGuid": "9307989f-f18f-4cb8-8097-318f0c1b90f9",
+      "DisplayName": "MyRestSamples.Minimal",
+      "ColorIndex": 3
+    },
+    "9ff48628-0e6d-4346-8551-ef11d2d44aca": {
+      "ProjectGuid": "9ff48628-0e6d-4346-8551-ef11d2d44aca",
+      "DisplayName": "MyRestSamples.Minimal",
+      "ColorIndex": 4
+    },
+    "fe48c0db-c646-450d-97cb-6c82de313f35": {
+      "ProjectGuid": "fe48c0db-c646-450d-97cb-6c82de313f35",
+      "DisplayName": "MyRestSamples.CtrlSamples",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

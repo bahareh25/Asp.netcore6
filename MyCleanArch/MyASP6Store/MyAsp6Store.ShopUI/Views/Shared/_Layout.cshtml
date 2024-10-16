@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+<link rel="stylesheet" href="~/bootstrap/css/bootstrap.css"/>
+</head>
+<body>
+    <div class="row">
+        <div class="col-3"><vc:category-side-box></vc:category-side-box>
+            <vc:bascket-summery></vc:bascket-summery></div>
+        <div class="col-9">@RenderBody()</div>
+      
+    </div>
+</body>
+</html>

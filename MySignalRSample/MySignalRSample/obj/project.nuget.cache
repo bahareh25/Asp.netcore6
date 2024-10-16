@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXf/zoEhJQi4K8ay6EOMcI+KrIO3ptccrIrYBcf5RZ3PhLSBIdJne+7veI4jQCfZzQSfod8pdmQa0rvLMahXvw==",
+  "success": true,
+  "projectFilePath": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MySignalRSample\\MySignalRSample\\MySignalRSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

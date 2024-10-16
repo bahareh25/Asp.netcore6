@@ -1,0 +1,26 @@
+﻿@model Bascket
+<div class="m-1 p-1">
+<table class="table table-borderd table-striped table-alert-secondary">
+    <tr>
+        <td>
+            Items in Bascket
+        </td>
+        <td>
+            @if(@Model.Items.Any())
+            {<span>@Model.Items.Sum(c=>c.Quantity);</span>}
+            else
+            {<span>0</span>}
+        </td>
+    </tr>
+    <tr>
+        <td>TotalPric:</td>
+        <td>@Model.TotalPrice()</td>
+    </tr>
+    <tr>
+            <td colspan="2">
+              
+                <a class="btn btn-success" asp-controller="Bascket" asp-action="Index" asp-route-returnurl="@ViewContext.HttpContext.Request.Path">Bascket</a>
+            </td>
+        </tr>
+</table>
+</div>

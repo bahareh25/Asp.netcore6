@@ -1,0 +1,16 @@
+﻿@using  MyViewComponentSample.Models
+@model List<News>
+
+  
+        <ul>
+        @foreach(var item in Model)
+        {
+            <li>
+        <a asp-action="Detail" asp-route-Id=@item.Id>@item.Title</a>
+           
+            <P>@item.Description</P>
+       
+        </li>
+        }
+   </ul>
+  

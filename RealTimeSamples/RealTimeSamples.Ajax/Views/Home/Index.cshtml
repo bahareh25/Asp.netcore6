@@ -1,0 +1,41 @@
+﻿@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col_3">
+        <input  type="button" id="ajaxButton" value="Load data" />
+
+    </div>
+</div>
+@section Scripts{
+    <script type="text/javascript">
+        (()=>{
+        document.getElementById("ajaxButton").addEventListener("click",makeAjaxRequest);
+        let httpRequest;
+        function makeAjaxRequest(){
+            httpRequest=new  XMLHttpRequest();
+            if(!httpRequest)
+            {
+                Alert("invaled object");
+                return false;
+            }
+            httpRequest.onreadystatechange=alertcontent;
+            httpRequest.open("Get","Data/Index");
+            httpRequest.send();
+        }
+        function alertcontent()
+        {
+            if (httpRequest.readyState==XMLHttpRequest.DONE)
+            {
+                if(httpRequest.status==200)
+                {alert(httpRequest.responseText);}
+                else{
+                    alert("Bad Response");
+                }
+            }
+        }
+        })();
+        </script>
+}

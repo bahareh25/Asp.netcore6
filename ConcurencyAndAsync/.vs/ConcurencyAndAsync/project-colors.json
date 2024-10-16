@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf8368d6-4852-40eb-902b-b4a786314424": {
+      "ProjectGuid": "cf8368d6-4852-40eb-902b-b4a786314424",
+      "DisplayName": "ConcurencyAndAsync.AsyncSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\bin\Release\net6.0\MyAttributeSamples.Domain.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\bin\Release\net6.0\MyAttributeSamples.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\bin\Release\net6.0\ref\MyAttributeSamples.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\bin\Release\net6.0\MyAttributeSamples.Domain.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.csproj.AssemblyReference.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\ref\MyAttributeSamples.Domain.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\bin\Release\net6.0\MyAttributeSamples.CustomAttributes.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\bin\Release\net6.0\MyAttributeSamples.CustomAttributes.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.Domain\obj\Release\net6.0\MyAttributeSamples.Domain.csproj.CopyComplete

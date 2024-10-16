@@ -1,0 +1,17 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\myCourseStore.DAL.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\myCourseStore.DAL.runtimeconfig.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\myCourseStore.DAL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\ref\myCourseStore.DAL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\myCourseStore.DAL.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\myCourseStore.Model.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\bin\Debug\net6.0\myCourseStore.Model.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.csproj.AssemblyReference.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.csproj.CopyComplete
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\ref\myCourseStore.DAL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.DAL\obj\Debug\net6.0\myCourseStore.DAL.genruntimeconfig.cache

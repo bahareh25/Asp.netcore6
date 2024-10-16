@@ -1,0 +1,19 @@
+﻿@page
+@model MyAAASample.Pages.Account.LoginModel
+@{
+}
+<form method="post">
+    <div asp-validation-summary=All></div>
+    <input type="hidden" asp-for="ReturnUrl" />
+    <div class="form-group">
+        <label asp-for="UserName"></label>
+        <input type="text"  asp-for="UserName" class="form-control" />
+        
+    </div>
+     <div class="form-group">
+    <label asp-for="Password"></label>
+        <input type="text"  asp-for="Password" class="form-control" />
+    </div>
+    <hr />
+    <button type="submit" class="btn-success">LogIn</button>
+</form>

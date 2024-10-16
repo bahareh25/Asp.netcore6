@@ -1,0 +1,12 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\bin\Release\net6.0\MyAttributeSamples.CustomAttributes.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\bin\Release\net6.0\MyAttributeSamples.CustomAttributes.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\bin\Release\net6.0\ref\MyAttributeSamples.CustomAttributes.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\bin\Release\net6.0\MyAttributeSamples.CustomAttributes.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.csproj.AssemblyReference.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\ref\MyAttributeSamples.CustomAttributes.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\MyAttributeSamples\MyAttributeSamples.CustomAttributes\obj\Release\net6.0\MyAttributeSamples.CustomAttributes.pdb

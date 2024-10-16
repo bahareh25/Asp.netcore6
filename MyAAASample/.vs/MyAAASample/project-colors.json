@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3595d4f8-ab0f-4f4d-b1c6-485cef45c5df": {
+      "ProjectGuid": "3595d4f8-ab0f-4f4d-b1c6-485cef45c5df",
+      "DisplayName": "MyAAASample",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

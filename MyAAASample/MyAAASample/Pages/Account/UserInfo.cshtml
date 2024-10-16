@@ -1,0 +1,26 @@
+﻿@page
+@model MyAAASample.Pages.Account.UserInfoModel
+@{
+}
+@if(User.Identity.IsAuthenticated)
+{
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>@User.Identity.Name</td>
+        </tr>
+       
+        @foreach(var item in @User.Claims)
+        {
+            <tr>
+                <td>@item.Type</td>
+                 <td>@item.Value</td>
+            </tr>
+        }
+    </table>
+
+}
+else
+{
+    <h1>Is not Authenticated</h1>
+}

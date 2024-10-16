@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e051160-3241-43e2-bfb3-4058d9b369a8": {
+      "ProjectGuid": "9e051160-3241-43e2-bfb3-4058d9b369a8",
+      "DisplayName": "MyAttributeSamples.UI",
+      "ColorIndex": 0
+    },
+    "b445d0c6-8ffd-43a8-a28e-a26594daebde": {
+      "ProjectGuid": "b445d0c6-8ffd-43a8-a28e-a26594daebde",
+      "DisplayName": "MyAttributeSamples.Domain",
+      "ColorIndex": 1
+    },
+    "8ffae61a-8579-45ad-8d7b-74c1bc65205b": {
+      "ProjectGuid": "8ffae61a-8579-45ad-8d7b-74c1bc65205b",
+      "DisplayName": "MyAttributeSamples.Core.Domain.Test",
+      "ColorIndex": 2
+    },
+    "6b4c249f-1804-4f43-8765-58f9e2be646e": {
+      "ProjectGuid": "6b4c249f-1804-4f43-8765-58f9e2be646e",
+      "DisplayName": "MyAttributeSamples.CustomAttributes",
+      "ColorIndex": 3
+    },
+    "43d9d87a-86f8-46d8-ad2d-828d7e294708": {
+      "ProjectGuid": "43d9d87a-86f8-46d8-ad2d-828d7e294708",
+      "DisplayName": "MyAttributeSamples.ReflectionUI",
+      "ColorIndex": 4
+    },
+    "8d68640d-55a5-4742-8f82-49fba7495cc3": {
+      "ProjectGuid": "8d68640d-55a5-4742-8f82-49fba7495cc3",
+      "DisplayName": "MyAttributeSamples.DiscoveringMetaData",
+      "ColorIndex": 5
+    },
+    "59c22838-8c48-4ffe-8780-ec4f085eb137": {
+      "ProjectGuid": "59c22838-8c48-4ffe-8780-ec4f085eb137",
+      "DisplayName": "MyAttributeSamples.LoadAssembly",
+      "ColorIndex": 6
+    },
+    "1de8861e-2853-45bf-b2b1-4016390ce0ea": {
+      "ProjectGuid": "1de8861e-2853-45bf-b2b1-4016390ce0ea",
+      "DisplayName": "MyAttributeSamples.LateBinding",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

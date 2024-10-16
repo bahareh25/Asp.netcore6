@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.Domain\\MyAttributeSamples.Domain.csproj": {}
+  },
+  "projects": {
+    "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.CustomAttributes\\MyAttributeSamples.CustomAttributes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.CustomAttributes\\MyAttributeSamples.CustomAttributes.csproj",
+        "projectName": "MyAttributeSamples.CustomAttributes",
+        "projectPath": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.CustomAttributes\\MyAttributeSamples.CustomAttributes.csproj",
+        "packagesPath": "C:\\Users\\b.broumand\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.CustomAttributes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.broumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.Domain\\MyAttributeSamples.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.Domain\\MyAttributeSamples.Domain.csproj",
+        "projectName": "MyAttributeSamples.Domain",
+        "projectPath": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.Domain\\MyAttributeSamples.Domain.csproj",
+        "packagesPath": "C:\\Users\\b.broumand\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.broumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.CustomAttributes\\MyAttributeSamples.CustomAttributes.csproj": {
+                "projectPath": "E:\\Course\\NikAmooz\\ASp.net6\\Session27_11\\My\\MyAttributeSamples\\MyAttributeSamples.CustomAttributes\\MyAttributeSamples.CustomAttributes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

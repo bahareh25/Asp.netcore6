@@ -1,0 +1,17 @@
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.BLL.deps.json
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.BLL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\ref\myCourseStore.BLL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.BLL.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.csproj.AssemblyReference.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.AssemblyInfoInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.AssemblyInfo.cs
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.csproj.CoreCompileInputs.cache
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\ref\myCourseStore.BLL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.DAL.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.Model.dll
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.DAL.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\bin\Debug\net6.0\myCourseStore.Model.pdb
+E:\Course\NikAmooz\ASp.net6\Session27_11\My\myCourseStore\myCourseStore.BLL\obj\Debug\net6.0\myCourseStore.BLL.csproj.CopyComplete

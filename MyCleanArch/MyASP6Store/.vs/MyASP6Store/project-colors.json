@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bdf60dd-bb93-4917-a7db-c83e52ea909d": {
+      "ProjectGuid": "2bdf60dd-bb93-4917-a7db-c83e52ea909d",
+      "DisplayName": "MyAsp6Store.ShopUI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d4a8e4d4-7d97-4ca1-8a87-1000f7538a57": {
+      "ProjectGuid": "d4a8e4d4-7d97-4ca1-8a87-1000f7538a57",
+      "DisplayName": "MyASP6Store.Core.Domain",
+      "ColorIndex": 1
+    },
+    "2a71e677-33c9-4085-9762-8e9ee5c70465": {
+      "ProjectGuid": "2a71e677-33c9-4085-9762-8e9ee5c70465",
+      "DisplayName": "MyASP6Store.Framework",
+      "ColorIndex": 2
+    },
+    "1e72e271-f781-407e-9638-5708dd8217c3": {
+      "ProjectGuid": "1e72e271-f781-407e-9638-5708dd8217c3",
+      "DisplayName": "MyASP6Store.Infra.Data.Sql",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,32 @@
+﻿@page "{id}"
+@model MyAAASample.Pages.Users.ManageRoleModel
+@{
+}
+<h3>Manage Users Roles</h3>
+<table class="table table-striped table-bordered">
+    <tr>
+        
+        <td>Name</td>
+        <td>@Model.CurrentUser.Name</td>
+        <td>Family</td>
+        <td>@Model.CurrentUser.Family</td>
+        <td>Email</td>
+        <td>@Model.CurrentUser.Email</td>
+    </tr>
+</table>
+<hr />
+<h3 class="text-bg-primery">User Roles</h3>
+<form method="post">
+   
+<div asp-validation-summary="All" class="text-danger"></div>
+<input type="hidden" value="@Model.CurrentUser.Id" name="Id"/> 
+@foreach(var item in Model.AllRoles)
+{
+    <input type="checkbox" name="Roles" checked="@Model.UserRoles.Contains(item.Name)" value="@item.Name">
+    <label>@item.Name</label>
+}
+<div class="py-2">
+        <button type="submit" class="btn btn-primary">Update Role</button>
+        <a asp-page="list" class="btn btn-secondary">Return</a>
+    </div>
+</form>

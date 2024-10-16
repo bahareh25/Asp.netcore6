@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f9293ba-548d-46b6-aa63-f724a4d19d19": {
+      "ProjectGuid": "9f9293ba-548d-46b6-aa63-f724a4d19d19",
+      "DisplayName": "RabbitSamples.TopicRouting.Logger",
+      "ColorIndex": 0
+    },
+    "d83868e9-6150-4a65-ab53-62c26361673b": {
+      "ProjectGuid": "d83868e9-6150-4a65-ab53-62c26361673b",
+      "DisplayName": "RabbitSamples.TopicRouting.EmailReceiver",
+      "ColorIndex": 1
+    },
+    "bc41a8bb-0727-4a50-9970-9f0bb2005ff1": {
+      "ProjectGuid": "bc41a8bb-0727-4a50-9970-9f0bb2005ff1",
+      "DisplayName": "RabbitSamples.TopicRouting.ConsoleReceiver",
+      "ColorIndex": 2
+    },
+    "1191bb9a-5b0e-4574-a634-c92295f08395": {
+      "ProjectGuid": "1191bb9a-5b0e-4574-a634-c92295f08395",
+      "DisplayName": "RabbitSamples.DirectRouting.Logger",
+      "ColorIndex": 3
+    },
+    "fe98b6c5-f61c-431c-962d-b6268f15724f": {
+      "ProjectGuid": "fe98b6c5-f61c-431c-962d-b6268f15724f",
+      "DisplayName": "RabbitSamples.TopicRouting.Sender",
+      "ColorIndex": 4
+    },
+    "bb64bb36-d6ec-4305-b179-48a0d101b923": {
+      "ProjectGuid": "bb64bb36-d6ec-4305-b179-48a0d101b923",
+      "DisplayName": "RabbitSamples.DirectRouting.Sender",
+      "ColorIndex": 5
+    },
+    "9a7a38cf-448f-41c0-bc0a-16080f84fa15": {
+      "ProjectGuid": "9a7a38cf-448f-41c0-bc0a-16080f84fa15",
+      "DisplayName": "RabbitSamples.DirectRouting.ConsoleReceiver",
+      "ColorIndex": 6
+    },
+    "51ad79ae-4c0e-4a31-9a44-9fcee56d6bfd": {
+      "ProjectGuid": "51ad79ae-4c0e-4a31-9a44-9fcee56d6bfd",
+      "DisplayName": "RabbitSamples.DirectRouting.EmailReceiver",
+      "ColorIndex": 7
+    },
+    "088ead8b-b7b5-4ee9-b68f-ab2e787f96f6": {
+      "ProjectGuid": "088ead8b-b7b5-4ee9-b68f-ab2e787f96f6",
+      "DisplayName": "RabbitSamples.PubSub.ConsoleReceiver",
+      "ColorIndex": 8
+    },
+    "91ec6049-6ee4-41e2-b28b-196c91cc3c92": {
+      "ProjectGuid": "91ec6049-6ee4-41e2-b28b-196c91cc3c92",
+      "DisplayName": "RabbitSamples.PubSub.EmailReceiver",
+      "ColorIndex": 9
+    },
+    "3c1b85fe-3f16-4393-b034-10aaa200bc54": {
+      "ProjectGuid": "3c1b85fe-3f16-4393-b034-10aaa200bc54",
+      "DisplayName": "RabbitSamples.PubSub.Sender",
+      "ColorIndex": 10
+    },
+    "c85f8298-15bb-47fa-bfd6-83a592cc8c9c": {
+      "ProjectGuid": "c85f8298-15bb-47fa-bfd6-83a592cc8c9c",
+      "DisplayName": "RabbitSamples.LoadBalancing.Receiver",
+      "ColorIndex": 11
+    },
+    "90c95fef-2667-450e-83ff-ea1b8db7e748": {
+      "ProjectGuid": "90c95fef-2667-450e-83ff-ea1b8db7e748",
+      "DisplayName": "RabbitSamples.LoadBalancing.Sender",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

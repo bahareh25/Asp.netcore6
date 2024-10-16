@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyAttributeSamples.Domain/1.0.0": {
+        "dependencies": {
+          "MyAttributeSamples.CustomAttributes": "1.0.0"
+        },
+        "runtime": {
+          "MyAttributeSamples.Domain.dll": {}
+        }
+      },
+      "MyAttributeSamples.CustomAttributes/1.0.0": {
+        "runtime": {
+          "MyAttributeSamples.CustomAttributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAttributeSamples.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyAttributeSamples.CustomAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c738b52f-483b-4f61-a79a-6a343c054a1f": {
+      "ProjectGuid": "c738b52f-483b-4f61-a79a-6a343c054a1f",
+      "DisplayName": "RealTimeSamples.Ajax",
+      "ColorIndex": 0
+    },
+    "4628e1d3-f96d-4e49-befb-c3a2b608617c": {
+      "ProjectGuid": "4628e1d3-f96d-4e49-befb-c3a2b608617c",
+      "DisplayName": "RealTimeSamples.Polling",
+      "ColorIndex": 1
+    },
+    "7af63482-6376-45fd-90a0-7846ec91801b": {
+      "ProjectGuid": "7af63482-6376-45fd-90a0-7846ec91801b",
+      "DisplayName": "RealTimeSamples.SSE",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

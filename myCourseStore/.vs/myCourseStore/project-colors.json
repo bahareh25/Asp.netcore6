@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebbf5981-5d76-4b18-b370-17f358c1b447": {
+      "ProjectGuid": "ebbf5981-5d76-4b18-b370-17f358c1b447",
+      "DisplayName": "myCourseStore.BLL",
+      "ColorIndex": 0
+    },
+    "e5aaf008-2cf7-4ea3-8688-8ef15c15acd3": {
+      "ProjectGuid": "e5aaf008-2cf7-4ea3-8688-8ef15c15acd3",
+      "DisplayName": "myCourseStore.DAL",
+      "ColorIndex": 1
+    },
+    "9d070b43-22a6-499a-8468-612d52c8de1c": {
+      "ProjectGuid": "9d070b43-22a6-499a-8468-612d52c8de1c",
+      "DisplayName": "myCourseStore.Model",
+      "ColorIndex": 2
+    },
+    "b94002a7-1a44-4411-8549-30d3e079b294": {
+      "ProjectGuid": "b94002a7-1a44-4411-8549-30d3e079b294",
+      "DisplayName": "myCourseStore.WebAPI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

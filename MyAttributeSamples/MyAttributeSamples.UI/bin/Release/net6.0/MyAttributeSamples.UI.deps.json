@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyAttributeSamples.UI/1.0.0": {
+        "dependencies": {
+          "MyAttributeSamples.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyAttributeSamples.UI.dll": {}
+        }
+      },
+      "MyAttributeSamples.Domain/1.0.0": {
+        "runtime": {
+          "MyAttributeSamples.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAttributeSamples.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyAttributeSamples.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

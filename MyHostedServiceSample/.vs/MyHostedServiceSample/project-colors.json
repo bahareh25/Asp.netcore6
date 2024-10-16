@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10a53d07-dbf0-4643-ba8d-ce74a38b0cf9": {
+      "ProjectGuid": "10a53d07-dbf0-4643-ba8d-ce74a38b0cf9",
+      "DisplayName": "MyHostedServiceSample.PostSample",
+      "ColorIndex": 0
+    },
+    "3d99bba2-5ca6-405f-98fa-980c1d949b04": {
+      "ProjectGuid": "3d99bba2-5ca6-405f-98fa-980c1d949b04",
+      "DisplayName": "MyHostedServiceSample.PostToFile",
+      "ColorIndex": 1
+    },
+    "89721838-17fa-4836-bcf1-7f7c572a9e68": {
+      "ProjectGuid": "89721838-17fa-4836-bcf1-7f7c572a9e68",
+      "DisplayName": "MyHostedServiceSamp.Quartz",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

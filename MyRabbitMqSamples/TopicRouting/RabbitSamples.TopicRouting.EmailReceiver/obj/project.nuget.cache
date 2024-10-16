@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KahiwM241LSoU43jgwRTq20tCifxEOUa7NLV1wf+gIPymry4EZcWxXYlzBe0XGojVJyO4VjCChONKq7ZP2forA==",
+  "success": true,
+  "projectFilePath": "E:\\Course\\NikAmooz\\ASp.net6\\Session48_3\\Se03-RabbitMQ\\4 - Sample\\03. RabbitMqSamples\\03. RabbitMqSamples\\TopicRouting\\RabbitSamples.TopicRouting.EmailReceiver\\RabbitSamples.TopicRouting.EmailReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.broumand\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

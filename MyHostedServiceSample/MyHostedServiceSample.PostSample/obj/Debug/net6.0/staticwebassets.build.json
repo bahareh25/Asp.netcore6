@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s4098n0OT2Rw6SQ3/uWGTRcrJxLgRSfIegpSEtSXR6A=",
+  "Source": "MyHostedServiceSample.PostSample",
+  "BasePath": "_content/MyHostedServiceSample.PostSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
